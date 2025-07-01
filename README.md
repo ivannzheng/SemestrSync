@@ -4,6 +4,13 @@
 
 Tired of manually copying dates from you syllabus into your calendar? SemesterSync automates this process! Upload your syllabus, let our AI do the heavy lifting, and watch as all your assignments, tests, and class schedules magically appear in your Google Calendar. 
 
+### Demo 
+
+
+https://github.com/user-attachments/assets/f5eeaceb-3c31-467d-b401-4ffe66b90174
+
+
+
 ## What's the Magic?
 
 SemesterSync uses AI to read your syllabus and extract all the important dates and events. No more squinting at tiny text or missing deadlines because you forgot to add something to your calendar!
