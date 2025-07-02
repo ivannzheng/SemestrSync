@@ -7,7 +7,7 @@ Tired of manually copying dates from you syllabus into your calendar? SemesterSy
 ### Demo 
 
 
-https://github.com/user-attachments/assets/f5eeaceb-3c31-467d-b401-4ffe66b90174
+https://github.com/user-attachments/assets/df91b192-559e-4008-a553-665f62b1c4aa
 
 
 
